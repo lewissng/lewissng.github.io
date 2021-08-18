@@ -53,7 +53,8 @@ nav ul li:hover {
 
 .content {
     border: 3px solid white;
-    padding: 15px;
+    padding: 2em;
+    margin: 2em;
     background-color: teal;
     opacity: 90%;
     border-radius: 2em;
